@@ -112,8 +112,8 @@ library_manager.exe
  
 ## 👨‍💻 Author
  
-**Akash**
-BS Computer Science
+**Faizan Awan**
+BS Artificial Intelligence
  
 ---
  
